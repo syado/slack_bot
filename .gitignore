@@ -1,0 +1,10 @@
+
+venv/
+
+text/
+
+configdata.py
+
+.vscode/
+
+__pycache__/
